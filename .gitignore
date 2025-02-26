@@ -1,0 +1,9 @@
+# env files
+.env
+
+# app engine yaml files
+wellsora-auth.yaml
+wellsora-auth-prod.yaml
+
+# node_modules
+node_modules
